@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hanochs57-data-science/hanochs57-data-science** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
